@@ -1,0 +1,19 @@
+# Site settings
+baseurl = "http://mikheev.me"
+theme = "cocoa-eh"
+languageCode = "en-us"
+author = "Andrey Mikheev"
+title = "Andrey Mikheev' personal website"
+
+[params]
+dateform = "Jan 2, 2017"
+dateformfull = "Mon Jan 2 2017 15:05:05 MST"
+description = "Andrey Mikheev' personal website"
+copyright = "Copyright © 2017 Andrey Mikheev"
+logofile = "img/avatar.png"
+extracssfiles = [ "css/message.css", "css/gallery.css", "css/cocoa-eh-fixes.css" ]
+highlightjs = true
+progressively = false
+latestpostcount = 5
+github = "Solverit"
+email = "solver.it@gmail.com"
