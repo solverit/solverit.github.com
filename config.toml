@@ -15,5 +15,5 @@ extracssfiles = [ "css/message.css", "css/gallery.css", "css/cocoa-eh-fixes.css"
 highlightjs = true
 progressively = false
 latestpostcount = 5
-github = "Solverit"
+github = "solverit"
 email = "solver.it@gmail.com"
