@@ -23,6 +23,8 @@ popd
 msg "Building the website"
 hugo
 
+echo "mikheev.me" >> public/CNAME
+
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 pushd public
 git add *
