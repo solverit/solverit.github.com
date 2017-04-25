@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrey Mikheev&#39; programming blog</title>
+    <link>http://mikheev.me/</link>
+    <description>Recent content on Andrey Mikheev&#39; programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Andrey Mikheev</copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikheev.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://mikheev.me/about/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/about/</guid>
+      <description>I am a developer.
+If you wish to know more, please feel free to contact me via email.</description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>http://mikheev.me/contributions/contributions/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/contributions/contributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSL</title>
+      <link>http://mikheev.me/blog/first-page/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/blog/first-page/</guid>
+      <description>&amp;ldquo;Hello, World!&amp;rdquo;
+As this is the first blog post on this website.
+This website is created using the Hugo static website generator. You define the layout of your pages using regular HTML (combined with Hugo&amp;rsquo;s templates), CSS and JavaScript and you write your pages&amp;rsquo; contents using Markdown. Hugo takes these source files and generates the HTML files for you. All you have to do afterwards is deploy these files on your server.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>http://mikheev.me/license/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/license/</guid>
+      <description>All content on this website, unless otherwise noted, is copyright © 2017 Andrey Mikheev and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+All code on this website, unless otherwise noted, is copyright © 2016, 2017 Andrey Mikheev and licensed under the MIT license:
+ Copyright &amp;copy; 2017 Andrey Mikheev
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://mikheev.me/projects/projects/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/projects/projects/</guid>
+      <description>Please browse through my GitHub repositories for an exhaustive list.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://mikheev.me/home/</link>
+      <pubDate>Tue, 21 Feb 2017 14:43:43 +0200</pubDate>
+      
+      <guid>http://mikheev.me/home/</guid>
+      <description>Welcome to my personal website. You can learn more about me, browse my own open-source projects or view my contributions to other open-source projects.</description>
+    </item>
+    
+  </channel>
+</rss>

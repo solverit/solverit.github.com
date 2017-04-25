@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributions on Andrey Mikheev&#39; programming blog</title>
+    <link>http://mikheev.me/contributions/</link>
+    <description>Recent content in Contributions on Andrey Mikheev&#39; programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Andrey Mikheev</copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikheev.me/contributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributions</title>
+      <link>http://mikheev.me/contributions/contributions/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/contributions/contributions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

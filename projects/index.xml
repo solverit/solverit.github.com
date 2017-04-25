@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Andrey Mikheev&#39; programming blog</title>
+    <link>http://mikheev.me/projects/</link>
+    <description>Recent content in Projects on Andrey Mikheev&#39; programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Andrey Mikheev</copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikheev.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://mikheev.me/projects/projects/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/projects/projects/</guid>
+      <description>Please browse through my GitHub repositories for an exhaustive list.</description>
+    </item>
+    
+  </channel>
+</rss>

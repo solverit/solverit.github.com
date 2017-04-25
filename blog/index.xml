@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Andrey Mikheev&#39; programming blog</title>
+    <link>http://mikheev.me/blog/</link>
+    <description>Recent content in Blogs on Andrey Mikheev&#39; programming blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2017 Andrey Mikheev</copyright>
+    <lastBuildDate>Sun, 23 Apr 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mikheev.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DSL</title>
+      <link>http://mikheev.me/blog/first-page/</link>
+      <pubDate>Sun, 23 Apr 2017 15:00:00 +0000</pubDate>
+      
+      <guid>http://mikheev.me/blog/first-page/</guid>
+      <description>&amp;ldquo;Hello, World!&amp;rdquo;
+As this is the first blog post on this website.
+This website is created using the Hugo static website generator. You define the layout of your pages using regular HTML (combined with Hugo&amp;rsquo;s templates), CSS and JavaScript and you write your pages&amp;rsquo; contents using Markdown. Hugo takes these source files and generates the HTML files for you. All you have to do afterwards is deploy these files on your server.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+a,
+section.main .content .markdown a code {
+  color: #228b22 !important;
+}
+a:hover,
+section.main .content .markdown a code:hover {
+  color: #005900 !important;
+}
+section.footer {
+  margin-top: 0em;
+  padding-bottom: 60px;
+}
+section.footer .container a {
+    color: #666666 !important;
+}
+@media (min-width: 600px) {
+  section.main.post {
+    padding-bottom: 0px;
+  }
+}
